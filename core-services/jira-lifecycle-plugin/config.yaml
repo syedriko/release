@@ -584,10 +584,6 @@ orgs:
             validate_by_default: false
             skip_target_version_check: true
             exclude_defaults: true
-      lightspeed-console:
-        branches:
-          '*':
-            skip_target_version_check: true
       lightspeed-service:
         branches:
           '*':

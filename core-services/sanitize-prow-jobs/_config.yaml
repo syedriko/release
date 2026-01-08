@@ -10070,7 +10070,6 @@ buildFarm:
       - openshift-oauth-proxy-release-4.7-postsubmits.yaml
       - openshift-vmware-vsphere-csi-driver-operator-release-4.9-postsubmits.yaml
       - openshift-must-gather-release-4.6-postsubmits.yaml
-      - openshift-lightspeed-console-main-postsubmits.yaml
       - openshift-machine-api-provider-nutanix-release-4.22-postsubmits.yaml
       - openshift-cluster-node-tuning-operator-release-4.10-postsubmits.yaml
       - openshift-machine-api-provider-nutanix-release-4.14-postsubmits.yaml
@@ -11893,7 +11892,6 @@ buildFarm:
       - openshift-kubernetes-sigs-karpenter-release-4.22-presubmits.yaml
       - openshift-priv-cluster-api-release-4.12-presubmits.yaml
       - openshift-priv-cluster-api-release-4.13-presubmits.yaml
-      - openshift-lightspeed-console-pattern-fly-5-presubmits.yaml
       - openshift-priv-cluster-api-release-4.11-presubmits.yaml
       - openshift-priv-vmware-vsphere-csi-driver-release-4.9-presubmits.yaml
       - openshift-insights-runtime-extractor-release-4.23-presubmits.yaml
@@ -16825,7 +16823,6 @@ buildFarm:
       - stolostron-prometheus-operator-release-2.6-presubmits.yaml
       - stolostron-prometheus-operator-release-2.7-presubmits.yaml
       - stolostron-prometheus-operator-release-2.9-presubmits.yaml
-      - openshift-lightspeed-console-main-presubmits.yaml
       - openshift-priv-azure-file-csi-driver-release-4.10-presubmits.yaml
       - opendatahub-io-kserve-stable-2.x-postsubmits.yaml
       - openshift-grafana-release-4.11-presubmits.yaml
@@ -18503,7 +18500,6 @@ buildFarm:
       - openshift-csi-driver-nfs-release-4.13-postsubmits.yaml
       - openshift-csi-driver-nfs-release-4.12-postsubmits.yaml
       - openshift-csi-driver-smb-release-4.18-postsubmits.yaml
-      - openshift-lightspeed-console-pattern-fly-5-postsubmits.yaml
       - redhat-cne-hw-event-proxy-release-4.13-postsubmits.yaml
       - openshift-kubefed-operator-release-4.9-postsubmits.yaml
       - openshift-kube-state-metrics-release-4.15-postsubmits.yaml
